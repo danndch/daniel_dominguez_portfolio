@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Daniel Dominguez's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Daniel Dominguez
+Data Science major and Statistics minor at BYU-Idaho University.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
