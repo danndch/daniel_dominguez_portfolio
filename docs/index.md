@@ -3,12 +3,11 @@ layout: cv
 title: Daniel Dominguez's Resume
 ---
 # Daniel Dominguez
-Data Science major and Statistics minor at BYU-Idaho University.
+The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
-<div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="danndch@gmail.com">danndch@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+| <a href="https://www.linkedin.com/in/dann-dominguez/>LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
@@ -16,69 +15,55 @@ Data Science major and Statistics minor at BYU-Idaho University.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
+**Data Science Major.** *Dec 2023*
+&nbsp;&nbsp;&nbsp;&nbsp;Brigham Young University-Idaho 
+&nbsp;&nbsp;&nbsp;&nbsp;Rexburg, ID.
+&nbsp;&nbsp;&nbsp;&nbsp; **+** Minor: Statistics
+&nbsp;&nbsp;&nbsp;&nbsp;Relevant Courses: Data Wrangling, Visualization, and Intermediate Statistics with RStudio, Introduction to Database, Database Design and Development, Intro to programming, Programming with Python and Data Wrangling, Data Visualization on Tableau and Power Bi, Spreadsheet Analysis in Excel, Business Analytics with Power BI.
 
 
 ## Related Experience
 
-### Internships
+### Web and Data Analyst.
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+**BYU-Idaho University Relations**
+`Oct 2021 - Present.`
+- Member of the Integration Analytics team of the University Relations Department. 
+- We work closely with all departments to assist them to understand the behavior of users on their website. 
+- We make use of tools such as Power BI, Google Analytics, Data Studio, SQL, Microsoft Teams, and Microsoft Office.
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+### Previous Jobs
 
-### Data Science Lead
+### Administrative Assistant. Aug 2018 – Sep 2019
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+Centenario Rent a Car Group Mexicali, Baja California, México
+-Implemented a new ´status-performance´ process, with tracking, analyzing data and reporting purposes. Updated
+daily for 15 cars. Used for scheduling vehicles in best conditions. All programmed and designed in Excel.
+-Performed an internal audit by reviewing record books of the previous 3 years and entered data using
+spreadsheets. Made use of the information from the audit on contingency, investment and management plans.
+-Research for market conditions and appropriate channels and target customers. Meeting with possible customers,
+and perform contracts to formalize the agreement between both companies.
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
+### Administrative Assistant. June 2013 – Feb 2016.
+Impulso Integral de Negocios – Bast Consultores (Consulting Services) Mexico City, Mexico
+- Provided auxiliary accounting services for 6 different clients throughout every month, being in constant contact
+with them.
+- Internal audit, where we reviewed and analyzed receipts and invoices, to verify completeness and accuracy of
+record books, for a $5,000,000.00 construction material company.
+- Elaborated Human Resources and Operations Handbooks, through research on the internet and physical manuals.
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+### Full-time Volunteer Representative March 2016 – March 2018
+The Church of Jesus Christ of Latter-day Saints Xalapa, Mexico
+- Developed leadership skills by coaching other 100 representatives, for efficiency purposes by conferences and
+one on one interviews. For 9 months.
+- Devised lesson plans and teaching one on one discussions. Identifying necessities, set goals and working through
+strategies to reach their own specific goal.
+- Found new people to meet, through personal contact on the street and looking for service opportunities.
+- Adapted to a different life-style, serving local people around 60 hours per week.
 
 
-`2023-2025`
-__Service Missionary__, South Africa
 
 
 
