@@ -7,7 +7,7 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <a href="danndch@gmail.com">danndch@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/in/dann-dominguez/>LinkedIn</a>
+| <a href="https://www.linkedin.com/in/dann-dominguez"/> LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
