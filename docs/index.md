@@ -18,6 +18,7 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 **Data Science Major.** *Dec 2023*
 &nbsp;&nbsp;&nbsp;&nbsp;Brigham Young University-Idaho 
 &nbsp;&nbsp;&nbsp;&nbsp;Rexburg, ID.
+
 &nbsp;&nbsp;&nbsp;&nbsp; **+** Minor: Statistics
 &nbsp;&nbsp;&nbsp;&nbsp;Relevant Courses: Data Wrangling, Visualization, and Intermediate Statistics with RStudio, Introduction to Database, Database Design and Development, Intro to programming, Programming with Python and Data Wrangling, Data Visualization on Tableau and Power Bi, Spreadsheet Analysis in Excel, Business Analytics with Power BI.
 
@@ -36,7 +37,7 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ### Administrative Assistant. Aug 2018 – Sep 2019
 
-Centenario Rent a Car Group Mexicali, Baja California, México
+**Centenario Rent a Car Group Mexicali, Baja California, México.**
 -Implemented a new ´status-performance´ process, with tracking, analyzing data and reporting purposes. Updated
 daily for 15 cars. Used for scheduling vehicles in best conditions. All programmed and designed in Excel.
 -Performed an internal audit by reviewing record books of the previous 3 years and entered data using
@@ -45,7 +46,7 @@ spreadsheets. Made use of the information from the audit on contingency, investm
 and perform contracts to formalize the agreement between both companies.
 
 ### Administrative Assistant. June 2013 – Feb 2016.
-Impulso Integral de Negocios – Bast Consultores (Consulting Services) Mexico City, Mexico
+**Impulso Integral de Negocios – Bast Consultores (Consulting Services) Mexico City, Mexico.**
 - Provided auxiliary accounting services for 6 different clients throughout every month, being in constant contact
 with them.
 - Internal audit, where we reviewed and analyzed receipts and invoices, to verify completeness and accuracy of
@@ -55,7 +56,7 @@ record books, for a $5,000,000.00 construction material company.
 ## Service and Work History
 
 ### Full-time Volunteer Representative March 2016 – March 2018
-The Church of Jesus Christ of Latter-day Saints Xalapa, Mexico
+**The Church of Jesus Christ of Latter-day Saints Xalapa, Mexico**
 - Developed leadership skills by coaching other 100 representatives, for efficiency purposes by conferences and
 one on one interviews. For 9 months.
 - Devised lesson plans and teaching one on one discussions. Identifying necessities, set goals and working through
