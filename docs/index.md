@@ -17,7 +17,9 @@ Data Science Major at BYU-Idaho
 ## Education
 
 **Data Science Major.** **Dec 2023**
+
 &nbsp;&nbsp;&nbsp;&nbsp; Brigham Young University-Idaho 
+
 &nbsp;&nbsp;&nbsp;&nbsp; Rexburg, ID.
 
 &nbsp;&nbsp;&nbsp;&nbsp; **+** Minor: Statistics
