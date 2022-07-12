@@ -3,7 +3,7 @@ layout: cv
 title: Daniel Dominguez's Resume
 ---
 # Daniel Dominguez
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+Data Science Major at BYU-Idaho
 <!-- You are not old enough to be the second prophet-->
 
 <a href="danndch@gmail.com">danndch@gmail.com</a>
@@ -16,9 +16,9 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-**Data Science Major.** *Dec 2023*
-&nbsp;&nbsp;&nbsp;&nbsp;Brigham Young University-Idaho 
-&nbsp;&nbsp;&nbsp;&nbsp;Rexburg, ID.
+**Data Science Major.** **Dec 2023**
+&nbsp;&nbsp;&nbsp;&nbsp; Brigham Young University-Idaho 
+&nbsp;&nbsp;&nbsp;&nbsp; Rexburg, ID.
 
 &nbsp;&nbsp;&nbsp;&nbsp; **+** Minor: Statistics
 &nbsp;&nbsp;&nbsp;&nbsp;Relevant Courses: Data Wrangling, Visualization, and Intermediate Statistics with RStudio, Introduction to Database, Database Design and Development, Intro to programming, Programming with Python and Data Wrangling, Data Visualization on Tableau and Power Bi, Spreadsheet Analysis in Excel, Business Analytics with Power BI.
