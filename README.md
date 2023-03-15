@@ -1,60 +1,17 @@
-# md-resume
+### Welcome to my portfolio.
 
-A resume maintained in plain text and rendered to HTML and PDF using CSS.
+My name is Daniel Dominguez, and I am a Data Science Major at BYU-Idaho University. I was born and raised in Mexico City and while I was growing up I noticed that I was very observant to many different things that not a lot of people do. So as having an analyival mind I started to get interested in analysis, which brings us to the point of how data comes.  I am an enthusiast about data, one of the major motivations I had to jum
 
-For more details, see the [markdown-csv project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
+In this repository you would find a composite of projects I have worked at my job and my classes. Feel 
 
-***
 
-## Customization
+* Resume.
+* Work Related Projects. 
+* R projects.
+* Python Projects.
+* Power BI Projects.
+* Tableau Projects.
 
-Simply [fork the mdresume repo](https://github.com/byuids-resumes/mdresume)
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+If you as well want to know a little more about me here is a page with my background and where I speak about what I want to pursue and believe.
 
-and edit the `index.md` file in the `docs` folder [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
-
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
-
-adding your skills, jobs and education.
-
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
-
-## Distribution
-
-To transform your plain text resume into a beautiful and shareable HTML page, you have two options:
-
-### I. Use Github Pages to publish it online
-
-1. Edit or move your resume to the `index.md` file in the `docs` folder.
-2. Go to settings > GitHub pages to make the changes shown.
-
-![](docs_setup.png)
-
-3. Head to *yourusername*.github.io/mdresume to see your resume live.
-
-Any change you want to make to your CV from then on would have to be done in the `docs` folder and will be immediately rendered by Github Pages.
-
-## Styling
-
-The included CSS will render your CV in two styles:
-s
-1. `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita).
-2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned.
-
-To change the default style, simply change the variable in the
-`_config.yml` file.
-
-Any other styling is possible. More CSS style contributions and forks are welcome!
-
-### Author
-
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
-
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
-
-### License
-
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
