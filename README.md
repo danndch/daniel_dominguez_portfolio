@@ -12,7 +12,7 @@ As a problem-solver at heart, I relish the challenge of identifying issues and d
 So, if you're interested in exploring the world of data or just want to chat, feel free to reach out to me. Let's see what we can create together!
 
 
-(---)
+---
 
 
 <a href="danndch@gmail.com">danndch@gmail.com</a>
