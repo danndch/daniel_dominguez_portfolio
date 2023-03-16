@@ -1,9 +1,18 @@
 ### Welcome to my portfolio.
 
 
+Hey there, I'm Daniel Dominguez, a Data Science major at BYU-Idaho University. As a kid growing up in Mexico City, I was always a keen observer of the world around me. I found that I was able to glean insights and patterns from the things that most people didn't notice. This natural curiosity and analytical mind led me to the fascinating field of data science.
 
-My name is Daniel Dominguez, and I am a Data Science Major at BYU-Idaho University. I was born and raised in Mexico City and while I was growing up I noticed that I was very observant to many different things that not a lot of people do. So as having an analyival mind I started to get interested in analysis, which brings us to the point of how data comes.  I am an enthusiast about data, one of the major motivations I had to jum
+To me, data is like a story waiting to be told. Every set of data has its own narrative, and it's my job to uncover the hidden stories and connections within it. As someone who is passionate about storytelling, I believe that data analysis is a powerful tool for understanding our world and making better decisions.
 
+I'm passionate about all things data-related, but what really drives me is the ability to predict scenarios based on past and present trends. It's like being able to read the next chapter of a gripping story before anyone else! I'm constantly amazed by how the dots connect when we analyze data, and how insights gained from one area can inform and improve other areas.
+
+As a problem-solver at heart, I relish the challenge of identifying issues and devising ways to tackle them.  I'm always eager to put my skills to the test and find the best possible outcomes.
+
+So, if you're interested in exploring the world of data or just want to chat, feel free to reach out to me. Let's see what we can create together!
+
+
+(---)
 <a href="danndch@gmail.com">danndch@gmail.com</a>
 | <a href="https://www.byui.edu/mathematics/student-resources/data-science">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/dann-dominguez"/> LinkedIn</a>
