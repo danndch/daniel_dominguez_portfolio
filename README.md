@@ -13,6 +13,8 @@ So, if you're interested in exploring the world of data or just want to chat, fe
 
 
 (---)
+
+
 <a href="danndch@gmail.com">danndch@gmail.com</a>
 | <a href="https://www.byui.edu/mathematics/student-resources/data-science">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/dann-dominguez"/> LinkedIn</a>
