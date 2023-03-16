@@ -1,6 +1,5 @@
-### Welcome to my portfolio.
-
-
+## Welcome to my portfolio.
+---
 Hey there, I'm Daniel Dominguez, a Data Science major at BYU-Idaho University. As a kid growing up in Mexico City, I was always a keen observer of the world around me. I found that I was able to glean insights and patterns from the things that most people didn't notice. This natural curiosity and analytical mind led me to the fascinating field of data science.
 
 To me, data is like a story waiting to be told. Every set of data has its own narrative, and it's my job to uncover the hidden stories and connections within it. As someone who is passionate about storytelling, I believe that data analysis is a powerful tool for understanding our world and making better decisions.
@@ -10,11 +9,7 @@ I'm passionate about all things data-related, but what really drives me is the a
 As a problem-solver at heart, I relish the challenge of identifying issues and devising ways to tackle them.  I'm always eager to put my skills to the test and find the best possible outcomes.
 
 So, if you're interested in exploring the world of data or just want to chat, feel free to reach out to me. Let's see what we can create together!
-
-
 ---
-
-
 <a href="danndch@gmail.com">danndch@gmail.com</a>
 | <a href="https://www.byui.edu/mathematics/student-resources/data-science">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/dann-dominguez"/> LinkedIn</a>
