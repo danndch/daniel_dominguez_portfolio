@@ -9,6 +9,8 @@ I'm passionate about all things data-related, but what really drives me is the a
 As a problem-solver at heart, I relish the challenge of identifying issues and devising ways to tackle them.  I'm always eager to put my skills to the test and find the best possible outcomes.
 
 So, if you're interested in exploring the world of data or just want to chat, feel free to reach out to me. Let's see what we can create together!
+
+
 ---
 <a href="danndch@gmail.com">danndch@gmail.com</a>
 | <a href="https://www.byui.edu/mathematics/student-resources/data-science">Data Science Program</a>
