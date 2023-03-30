@@ -20,7 +20,7 @@ So, if you're interested in exploring the world of data or just want to chat, fe
 
 In this repository you would find a composite of projects I have worked at my job and my classes. Feel 
 
-* * <a href="https://github.com/danndch/daniel_dominguez_portfolio/tree/master/Resume">Resumes</a>
+* <a href="https://github.com/danndch/daniel_dominguez_portfolio/tree/master/Resume">Resumes</a>
 * <a href="https://github.com/danndch/daniel_dominguez_portfolio">Work projects</a>. 
 * <a href="https://github.com/danndch/daniel_dominguez_portfolio/tree/master/R">R projects</a>
 * <a href="https://github.com/danndch/daniel_dominguez_portfolio">Python projects</a>* 
