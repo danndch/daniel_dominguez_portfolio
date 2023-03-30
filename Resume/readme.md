@@ -30,7 +30,7 @@ Oct 2021- Present
 * Leveraged web-scraping data of 54K pages, to optimize user experiences and drive success, identifying errors and updating SEO content to improve accessibility and usability.
 
 
-## Email Specialist.  
+### Email Specialist.  
 
 *__Brigham Young University-Idaho Support Center. (Rexburg, ID)__*
 
@@ -42,7 +42,7 @@ service provided by Brigham Young University-Idaho with over 43,000 students.
 * Prioritized responding to around 16 emails per hour or escalation emails to different departments to provide the optimal 
 assistance. 
 
-## Administrative Assistant. 
+### Administrative Assistant. 
 
 *__Centenario Rent a Car Group. Mexicali, Baja California, México__*
 
@@ -56,7 +56,30 @@ Made use of the data to audit and develop contingency, investment, and managemen
 * Researched market conditions, appropriate channels, and target customers. Met with possible customers and created 
 contracts to formalize the agreement between both companies. 
 
-### Projects.
+## Projects.
+
+### Data Science Society Project Manager and Participant. 
+
+*__BYU-I Data Science Society Rexburg, ID __*
+
+Sep 2022-Present
+
+* Project manager to stablish connection with the John Deere API to make it available for future projects, and developed a dashboard for machine performance and maintanance status. 
+* Participated and contributed to a project with Beehive Credit Union using National Census Data and institutional data to 
+help the client understand where a new store could be located using a machine learning model. 
 
 
-### Volunteer Experience.
+
+## Volunteer Experience.
+
+### Full-time Volunteer Representative. 
+
+*__The Church of Jesus Christ of Latter-day Saints. Xalapa, México__*
+
+March 2016 – March 2018 
+
+* Developed leadership skills by coaching over 100 representatives on proselyting efficiency through leading conferences 
+and one on one interviews. 
+* Helped others to identify personal necessities and devised discussion plans to help them set goals and develop 
+healthy habits of reaching said goals and aspirations
+
