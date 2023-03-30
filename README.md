@@ -20,12 +20,11 @@ So, if you're interested in exploring the world of data or just want to chat, fe
 
 In this repository you would find a composite of projects I have worked at my job and my classes. Feel 
 
-* Resume.
-* Work Related Projects. 
+* * <a href="https://github.com/danndch/daniel_dominguez_portfolio/tree/master/Resume">Resumes</a>
+* <a href="https://github.com/danndch/daniel_dominguez_portfolio">Work projects</a>. 
 * <a href="https://github.com/danndch/daniel_dominguez_portfolio/tree/master/R">R projects</a>
-* Python Projects.
-* <a href="https://www.linkedin.com/in/dann-dominguez"/> LinkedIn</a>
-* Tableau Projects.
+* <a href="https://github.com/danndch/daniel_dominguez_portfolio">Python projects</a>* 
+
 
 
 If you as well want to know a little more about me here is a page with my background and where I speak about what I want to pursue and believe.
