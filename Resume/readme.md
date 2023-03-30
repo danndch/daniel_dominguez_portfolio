@@ -60,7 +60,7 @@ contracts to formalize the agreement between both companies.
 
 ### Data Science Society Project Manager and Participant. 
 
-*__BYU-I Data Science Society Rexburg, ID __*
+*__BYU-I Data Science Society Rexburg, ID__*
 
 Sep 2022-Present
 
