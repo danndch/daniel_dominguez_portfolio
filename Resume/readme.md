@@ -30,7 +30,31 @@ Oct 2021- Present
 * Leveraged web-scraping data of 54K pages, to optimize user experiences and drive success, identifying errors and updating SEO content to improve accessibility and usability.
 
 
+## Email Specialist.  
 
+*__Brigham Young University-Idaho Support Center. (Rexburg, ID)__*
+
+Sep 2020 - Dec 2021
+
+
+* Aided students, parents, faculty, and staff by answering their questions about resources, applications, or any type of 
+service provided by Brigham Young University-Idaho with over 43,000 students. 
+* Prioritized responding to around 16 emails per hour or escalation emails to different departments to provide the optimal 
+assistance. 
+
+## Administrative Assistant. 
+
+*__Centenario Rent a Car Group. Mexicali, Baja California, México__*
+
+Aug 2018 – Sep 2019 
+
+
+* Designed and implemented in Excel, a new ‘status-performance’ process of 15 cars, with tracking, analyzing data and 
+reporting purposes. 
+* Utilized a digitalizing tool to make data entry of hand-written record books of the previous 3 years in spreadsheets. 
+Made use of the data to audit and develop contingency, investment, and management plans. 
+* Researched market conditions, appropriate channels, and target customers. Met with possible customers and created 
+contracts to formalize the agreement between both companies. 
 
 ### Projects.
 
