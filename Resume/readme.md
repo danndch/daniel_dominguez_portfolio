@@ -13,8 +13,8 @@
 *__Brigham Young University Idaho (Rexburg, ID)__*
 
 Jan 2020- Dec 2023
-* Minor:Statistics
-* Skills: Machine Learning, Data Wrangling and Visualization with Pyspark, R, Python and Power BI, Statistical Analysis with RStudio, Business Analytics and DAX with Power BI, Data Visualization on Tableau, Database Design Development and Administration SQL, Programming (Python.), Spreadsheet Analysis in Excel, Designed Thinking Process. 
+* Minor: Statistics
+* Skills: Machine Learning, Data Wrangling and Visualization with Pyspark, R, Python. SQL. Statistical Analysis with RStudio, Business Analytics and DAX with Power BI, Data Visualization on Tableau, DOMO, and Power BI, Database Design Development and Administration SQL, Programming (Python.), Spreadsheet Analysis in Excel, Designed Thinking Process. 
 
 ## Work Experience.
 ### Data Scientist
