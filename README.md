@@ -23,7 +23,7 @@ In this repository you would find a composite of projects I have worked at my jo
 * <a href="https://github.com/danndch/daniel_dominguez_portfolio/tree/master/Resume">Resumes</a>
 * <a href="https://github.com/danndch/daniel_dominguez_portfolio">Work projects</a>. 
 * <a href="https://github.com/danndch/daniel_dominguez_portfolio/tree/master/R">R projects</a>
-* <a href="https://github.com/danndch/daniel_dominguez_portfolio">Python projects</a>* 
+* <a href="https://github.com/danndch/daniel_dominguez_portfolio/tree/master/Python">Python projects</a>* 
 
 
 
